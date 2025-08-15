@@ -1,4 +1,4 @@
-# 🌤️ Outdoor Sports Weather Prediction App
+# 🌤️ Proven Data Private Limited
 
 ## 📌 Project Overview
 This project is a **machine learning-based web app** that predicts whether the weather conditions are suitable for outdoor sports.  
@@ -71,17 +71,7 @@ Our goal is to **develop a machine learning model** that can assist decision-mak
 
 ---
 
-## 📂 Project Structure
 
-📦 outdoor-sports-predictor
-├── artifacts/
-│ ├── best_weather_model.pkl
-│ ├── metadata.json
-├── weather_dataset.csv
-├── app.py
-├── notebook.ipynb
-├── requirements.txt
-└── README.md
 
 
 ---
